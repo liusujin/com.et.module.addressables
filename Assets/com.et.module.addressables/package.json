@@ -1,0 +1,11 @@
+{
+    "name": "com.et.module.addressables",
+    "displayName": "ET Module Addressables",
+    "version": "1.0.0",
+    "unity": "2019.3",
+    "description": "ET Module Addressables",
+    "keywords": ["et", "game-engine", "unity3d-framework", "command-pattern"],
+    "dependencies": {
+		"com.et.model": "https://github.com/liusujin/com.et.model.git#5.0.0"
+	}
+}

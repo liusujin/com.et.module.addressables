@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity.model", "unity.model.csproj", "{861CFB25-F040-9DEE-122F-62804F4D8AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.et.module.addressables", "com.et.module.addressables.csproj", "{310763A8-E53B-6B23-DBD3-3D0BD6769139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.et.module.addressables.editor", "com.et.module.addressables.editor.csproj", "{2AB6D5E3-F893-38DA-E63A-9CF9358B0817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861CFB25-F040-9DEE-122F-62804F4D8AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861CFB25-F040-9DEE-122F-62804F4D8AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861CFB25-F040-9DEE-122F-62804F4D8AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861CFB25-F040-9DEE-122F-62804F4D8AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310763A8-E53B-6B23-DBD3-3D0BD6769139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310763A8-E53B-6B23-DBD3-3D0BD6769139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310763A8-E53B-6B23-DBD3-3D0BD6769139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310763A8-E53B-6B23-DBD3-3D0BD6769139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB6D5E3-F893-38DA-E63A-9CF9358B0817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB6D5E3-F893-38DA-E63A-9CF9358B0817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB6D5E3-F893-38DA-E63A-9CF9358B0817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB6D5E3-F893-38DA-E63A-9CF9358B0817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
